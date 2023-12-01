@@ -280,7 +280,7 @@ def create_plot(q_total):
     ax.plot(x, z, label=f"q={q_total} [mm]")  # Plot data on the axes
 
     ax.set_xlim(-100, 80)
-    ax.set_ylim(0, 150)
+    ax.set_ylim(0, 180)
     ax.set_xlabel("X coordinate (mm)")
     ax.set_ylabel("Z coordinate (mm)")
     ax.set_title("Non-Constant Curvature: S-shape (2:1 ratio)")
