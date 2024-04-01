@@ -1,2 +1,2 @@
 # neurosurgical_robotics_system
-End effector team
+The optimization code (for step 1) is included in CPPR_optimization.ipynb
